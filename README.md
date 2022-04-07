@@ -12,5 +12,5 @@ Espero que gostem e incentive algum programador iniciante.
 </div>
 
 <div>
-  <a href="https://instagram.com/renansouzzzz" target="_blank"><img src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-free-download-PNG.png"          target="_blank" width="40" height="40"></a>
+  <a href="https://instagram.com/renansouzzzz" target="_blank"><img src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-transparent-PNG.png"          target="_blank" width="40" height="40"></a>
 </div>
