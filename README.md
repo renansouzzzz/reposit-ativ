@@ -12,5 +12,5 @@ Espero que gostem e incentive algum programador iniciante.
 </div>
 
 <div>
-  <a href="https://instagram.com/renansouzzzz" target="_blank"><img src="https://w7.pngwing.com/pngs/848/368/png-transparent-logo-computer-icons-instagram-logo-miscellaneous-text-sticker.png" target="_blank" width="40" height="40"></a>
+  <a href="https://instagram.com/renansouzzzz" target="_blank"><img src="https://mpng.subpng.com/20190616/rsj/kisspng-portable-network-graphics-computer-icons-clip-art-pulsar-vc-5d0691e8e1b950.8540007015607116569246.jpg" target="_blank" width="40" height="40"></a>
 </div>
