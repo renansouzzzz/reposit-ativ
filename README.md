@@ -12,5 +12,5 @@ Espero que gostem e incentive algum programador iniciante.
 </div>
 
 <div>
-  <a href="https://instagram.com/renansouzzzz" target="_blank"><img src="https://flyclipart.com/thumb2/instagram-instagram-logo-logo-label-icon-885014.png"          target="_blank" width="40" height="40"></a>
+  <a href="https://instagram.com/renansouzzzz" target="_blank"><img src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584911.png" target="_blank" width="40" height="40"></a>
 </div>
