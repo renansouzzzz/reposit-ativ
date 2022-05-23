@@ -5,6 +5,9 @@ Aqui se aloca alguns projetos e atividades elaboradas em minha faculdade ou mesm
 Espero que gostem e incentive algum programador iniciante (como eu).
 
 
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renansouzzzz)](https://github.com/renansouzzzz/github-readme-stats)
+
+
 ### Contatos:
 
 <div>
